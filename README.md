@@ -1,2 +1,2 @@
-# DataVisulisation
+# DataVisualization
 Viz Works : Academic Project
